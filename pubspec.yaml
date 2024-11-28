@@ -4,7 +4,7 @@ version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
 environment:
-  sdk: 3.5.4
+  sdk: ^3.5.0
 
 dependencies:
   json_annotation: ^4.9.0
